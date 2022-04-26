@@ -1,7 +1,9 @@
-Hi, I'm BrightShard! I'm a teenage Python developer, privacy enthusiest, and ethical-hacker-in-training. I make FOSS apps on GitHub and upload them to my website (Which is hosted here on GitHub Pages!) and, of course, put the source code in the repos here.
+I'm BrightShard, a teenage Python developer and hacker.
 
-I am currently working on a few projects (All open source):
-- **Cookie Clicker++** (Released): Cookie Clicker cheats using userscripts. Because why not.
-- **Muck++** (Being programmed): Muck cheats, so I can learn the basics of Unity game hacking.
-- **BrightSS** (Being developed): Roblox admin panel/serverside, so I can learn Roblox Lua.
-- **BrightBot** (Development paused after Discord.py was stopped): A free Discord bot. That's right, no paying $50+/year for bot features (*cough cough*, MEE6)!
+Languages I know: Python, Roblox Lua, Arduino, HTML/CSS/JS, C# in Unity (Not good with this one)
+
+Hacking knowledge: I know the basics of classic tools (Kali, Burpsuite, NMap, Nessus, Metasploit, etc.), but prefer HID attacks (Go look at my HiddenHID project!)
+
+Website: https://www.brightshard.dev
+
+I (used to) use Arch btw ;)
