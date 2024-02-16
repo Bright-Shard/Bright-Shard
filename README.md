@@ -1,7 +1,1 @@
-I'm BrightShard, a teenage Rustacean and hacker.
-
-Languages I know: Rust, Python, Roblox Lua, Arduino, HTML/CSS/JS, C++ (Which I absolutely hate)
-
-Infosec: I'm mostly interested in HID attacks (see my HiddenHID project), but do know the basics (BurpSuite, Metasploit, nmap, some wifi hacking, etc)
-
-Website: https://www.brightshard.dev
+I'm a teenage developer and hacker. I have a ton of different projects, from [windowing](https://github.com/loki-chat/lokinit) to [OS development](https://github.com/bright-shard/bs). I'm currently working on [BS](https://github.com/bright-shard/bs), an x86-64 operating system.
