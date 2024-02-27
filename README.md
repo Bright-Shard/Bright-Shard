@@ -3,6 +3,6 @@ I'm a teenage developer and hacker. I have a ton of different projects, from [wi
 <div align="center">
     <img src="svg.svg" width="900" height="500" />
     <svg xmlns="http://www.w3.org/2000/svg" version="2.0">
-        <use href="svg.svg#site">
+        <use href="svg.svg">
     </svg>
 </div>
