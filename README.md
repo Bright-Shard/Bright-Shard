@@ -5,3 +5,6 @@ I am currently trying to embed my website [as an svg](https://beta.brightshard.d
 <div align="center">
     <img src="https://beta.brightshard.dev/index.svg" width="900" height="500" />
 </div>
+
+By the way, all of my projects are...
+[![Human Made](https://humanmademark.com/white-logo.png)](https://humanmademark.com)
