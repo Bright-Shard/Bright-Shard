@@ -7,9 +7,11 @@
 Also, all of my projects are
 
 <div align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://humanmademark.com/white-logo.png">
-      <source media="(prefers-color-scheme: light)" srcset="https://humanmademark.com/black-logo.png">
-      <img src="https://humanmademark.com/black-logo.png">
-    </picture>
+    <a href="https://humanmademark.com" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://humanmademark.com/white-logo.png">
+          <source media="(prefers-color-scheme: light)" srcset="https://humanmademark.com/black-logo.png">
+          <img src="https://humanmademark.com/black-logo.png">
+        </picture>
+    </a>
 </div>
