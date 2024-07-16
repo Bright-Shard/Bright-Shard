@@ -5,4 +5,11 @@
 </div>
 
 Also, all of my projects are
-[![Human Made](https://humanmademark.com/black-logo.png)](https://humanmademark.com)
+
+<div align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://humanmademark.com/white-logo.png">
+      <source media="(prefers-color-scheme: light)" srcset="https://humanmademark.com/black-logo.png">
+      <img src="https://humanmademark.com/black-logo.png">
+    </picture>
+</div>
